@@ -58,7 +58,7 @@ It is also plays a crucial role on showcasing my abilties as a web designer.
 <summary>Database</summary>
   
 </details>
-### Key Features <a name="key-features"></a>
+## Key Features <a name="key-features"></a>
 
 - **Header/Navbar(Provides an easy way to browse though the site)**
 - **Projects(Showcases different projects authored by me)**
