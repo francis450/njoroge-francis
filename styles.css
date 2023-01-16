@@ -1,5 +1,11 @@
-@media screen and (max-width: 370px) {
-    body{
-        
+@media screen and (max-width: 375px) {
+    /* toolbar section */
+    #toolbar{
+        position: absolute;
+        width: 375px;
+        height: 48px;        
     }
+
+    
+
 }
