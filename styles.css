@@ -1,4 +1,11 @@
 @media screen and (max-width: 375px) {
+
+    /* all */
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
     /* body */
     body{
         background: #1C1A19;
@@ -104,5 +111,14 @@
         position: absolute;
         top: 65px;
         left: 0px;
+    }
+    .my-name{
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 56px;
+        line-height: 64px;
+
+        color: #FF6B00;
     }
 }
