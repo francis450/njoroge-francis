@@ -217,4 +217,10 @@
         justify-content: center;
         color: #1C1A19;
     }
+    #title-vector{
+        width: 80%;
+        border: 1px solid #212121;
+        flex: none;
+        flex-grow: 0px;
+    }
 }
