@@ -1,4 +1,9 @@
 @media screen and (max-width: 375px) {
+    /* body */
+    body{
+        background: #1C1A19;
+    }
+
     /* toolbar section */
     #toolbar{
         position: absolute;
@@ -74,7 +79,7 @@
         background-color: #fff;
         position: absolute;
         width: 100%;
-        height: 1px;
+        height: 2px;
     }
     #toolbar-menu-union-icon::before , #toolbar-menu-union-icon::after{
         content: '';   
@@ -86,4 +91,8 @@
         transform: translate(0px,-10px);
     }
 
+    /* headline section */
+    #headline{
+        
+    }
 }
