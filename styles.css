@@ -150,6 +150,20 @@
         flex-direction: row;
         align-items: center;
         height: 40px;
+        width: 200px;
         order: 3;
+        flex: none;
+        flex-grow: 0px;
+    }
+    .frame{
+        height: 40px;
+        width: 40px;
+        display: flex;
+        flex-direction: row;
+        align-items:center;
+        justify-content: center;
+
+        flex: none;
+        flex-grow: 0;
     }
 }
