@@ -93,6 +93,16 @@
 
     /* headline section */
     #headline{
-        
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+
+        width: 100%;
+        height: 590px;
+        padding: 120px 24px;
+
+        position: absolute;
+        top: 65px;
+        left: 0px;
     }
 }
