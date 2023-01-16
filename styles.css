@@ -244,13 +244,23 @@
         flex: none;
         flex-grow: 0;        
     }
-
     .works-image-placeholder{
         width: 100%;
         height: 237px;
         margin-left: 46px;
         flex: none;
         flex-grow: 0;        
+    }
+    #works-right-block{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+
+        width: 100%;
+        height: 307px;
+        flex: none;
+        flex-grow: 0;
     }
 
 }
