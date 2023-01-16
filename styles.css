@@ -145,5 +145,11 @@
         color: #FFFFFF;
     
     }
-    
+    .social-media{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 40px;
+        order: 3;
+    }
 }
