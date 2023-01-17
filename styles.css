@@ -413,12 +413,24 @@
 
         color: #fff;
     }
+    /* Works-right-group */
     .frame43-card-works-right-block{
         display: flex;
         flex-direction: column;
         align-items: flex-start;
         padding: 8px 16px;
         gap: 12px;
+
+        width: 100%;
+        height: 248px;
+
+        position: absolute;
+        left: calc(50% - 327px/2);
+        bottom: 62px;
+    }
+    .frame43-card-works-right-block-title-post{
+        width: 295px;
+        height: 81px;
     }
     
 }
