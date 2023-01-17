@@ -332,5 +332,9 @@
         width: 124px;
         height: 48px;
         background: #FF6B00;
+
+        flex: none;
+        order: 3;
+        flex-grow: o;
     }
 }
