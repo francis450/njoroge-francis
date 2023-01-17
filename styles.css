@@ -381,5 +381,7 @@
     .frame43-card-works-action{
         width: 100%;
         height: 48px;
+        position: absolute;
+        
     }
 }
