@@ -424,9 +424,9 @@
         width: 100%;
         height: 248px;
 
-        position: absolute;
+        position: relative;
         left: calc(50% - 327px/2);
-        bottom: 62px;
+        top: 76px;
     }
     .frame43-card-works-right-block-title-post{
         width: 295px;
@@ -436,6 +436,22 @@
         font-weight: 400;
         font-size: 32px;
         line-height: 44px;
+        color: #FFFFFF;
+
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .frame43-card-works-right-block-supporting-text{
+        width: 295px;
+        height: 87px;
+        
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px;
+        gap: 12px;
+        
     }
     
 }
