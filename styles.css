@@ -363,5 +363,11 @@
         align-items: center;
         padding: 0px 24px;
         gap: 24px;
+
+        width: 100%;
+        height:2436;
+
+        flex: none;
+        flex-grow: 0;
     }
 }
