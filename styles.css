@@ -4,6 +4,7 @@
     *{
         margin: 0px;
         padding: 0px;
+        box-sizing: content-box;
     }
 
     /* body */
@@ -306,5 +307,8 @@
         flex: none;
         order: 2;
         flex-grow: 0;
+    }
+    #tag{
+        
     }
 }
