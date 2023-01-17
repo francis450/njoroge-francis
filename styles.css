@@ -365,8 +365,8 @@
         gap: 24px;
 
         width: 100%;
-        height:2436;
-
+        height:2436px;
+        
         flex: none;
         flex-grow: 0;
     }
@@ -382,7 +382,13 @@
         width: 100%;
         height: 48px;
         position: absolute;
-    
+        
+    }
+    .frame43-card-works-action-action{
+        position: absolute;
+        width: 327px;
+        height: 48px;
+        background: #FF6B00;
     }
     .see-project{
         display: flex;
@@ -403,5 +409,16 @@
         font-weight: 700;
         font-size: 17px;
         line-height: 24px;
+        border: none;
+
+        color: #fff;
     }
+    .frame43-card-works-right-block{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 8px 16px;
+        gap: 12px;
+    }
+    
 }
