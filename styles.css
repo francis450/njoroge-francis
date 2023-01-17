@@ -328,6 +328,9 @@
         align-items: center;
         padding: 12px;
         gap: 10px;
-        
+
+        width: 124px;
+        height: 48px;
+        background: #FF6B00;
     }
 }
