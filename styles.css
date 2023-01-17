@@ -322,4 +322,12 @@
         flex: none;
         flex-grow: 0;
     }
+    #works-enable-button{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px;
+        gap: 10px;
+        
+    }
 }
