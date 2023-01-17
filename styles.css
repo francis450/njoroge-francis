@@ -431,6 +431,11 @@
     .frame43-card-works-right-block-title-post{
         width: 295px;
         height: 81px;
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 44px;
     }
     
 }
