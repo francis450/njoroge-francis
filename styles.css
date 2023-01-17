@@ -264,5 +264,9 @@
         order: 1;
         flex-grow: 0;
     }
-
+    #works-title-post{
+        width: 100%;
+        height: 36px;
+        
+    }
 }
