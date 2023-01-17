@@ -457,5 +457,18 @@
         flex: none;
         flex-grow: 0;       
     }
+    .frame43-card-works-right-block-tags{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 12px;
+
+        width: 236px;
+        height: 40px;
+
+        flex: none;
+        order: 2;
+        flex-grow: 0;
+    }
     
 }
