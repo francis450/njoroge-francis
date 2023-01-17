@@ -358,6 +358,8 @@
 
     /* works frame43 */
     #works-frame43{
-        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }
