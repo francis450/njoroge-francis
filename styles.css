@@ -267,6 +267,10 @@
     #works-title-post{
         width: 100%;
         height: 36px;
-        
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 44px;
     }
 }
