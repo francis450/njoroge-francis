@@ -397,5 +397,11 @@
         left: calc(50% - 124px/2);
         top: calc(50% - 48px/2);        
         background: #FF6B00;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 24px;
     }
 }
