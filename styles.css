@@ -308,7 +308,18 @@
         order: 2;
         flex-grow: 0;
     }
-    #tag{
+    .tag{
+        box-sizing: border-box;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 12px;
+        height: 100%;
         
+        background-color: #fff;
+        border: 1px solid #8993A4;
+        flex: none;
+        flex-grow: 0;
     }
 }
