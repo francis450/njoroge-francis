@@ -659,5 +659,11 @@
     #language-title{
         width: 225px;
         height: 41px;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 8px 12px;
+        gap: 12px;
     }
 }
