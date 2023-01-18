@@ -665,7 +665,7 @@
         align-items: center;
         padding: 8px 12px;
         gap: 12px;
-
+        justify-content: center;
         flex: none;
         flex-grow: 0;
     }
@@ -707,6 +707,110 @@
         padding: 12px 0px;
         width: 114px;
         height: 48px;                
+    }
+    #language-items-text{
+        width: 114px;
+        height: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 43px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        color: #FFFFFF;   
+    }
+    #framework{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+
+        width: 281px;
+        height: 336px;
+
+        flex: none;
+        flex-grow: 0;
+    }
+    #framework-title{
+        width: 281px;
+        height: 40px;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 8px 12px;
+        gap: 12px;
+        justify-content: center;
+        flex: none;
+        flex-grow: 0;
+    }
+    #framework-icon{
+        width: 18px;
+        height: 18px;
+        background: #FF6B00;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    #framework-text{
+        display: flex;
+        align-items: center;
+        width: 164px;
+        height: 24px;
+        font-family: 'InaiMathi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 44px;
+        color: #FFFFFF;
+    }
+    #framework-items{
+        width: 186px;
+        height: 272px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px 12px;
+        gap: 8px;        
+    }
+    
+    #framework-items-container{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px 0px;
+        width: 162px;
+        height: 48px;                
+    }
+    #framework-items-text{
+        width: 162px;
+        height: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 43px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        color: #FFFFFF;   
+    }
+    #skill-title{
+        width: 281px;
+        height: 40px;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 8px 12px;
+        gap: 12px;
+        justify-content: center;
+        flex: none;
+        flex-grow: 0;
     }
 
 }
