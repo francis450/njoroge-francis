@@ -513,6 +513,12 @@
         width: 327px;
         height: 386px;
         position: absolute;
-        
+    }
+    .card-works-img1{
+        position: absolute;
+        background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.56) 84.18%),
+         url('img/works/cardworks1.svg');
+        height: 386px;
+        width: 327px;
     }
 }
