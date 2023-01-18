@@ -566,5 +566,8 @@
         display: flex;
         flex-direction: column;
         align-items: flex-start;
+
+        padding: 120px 24px;
+        gap: 24px;
     }
 }
