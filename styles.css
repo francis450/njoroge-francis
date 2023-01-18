@@ -470,5 +470,49 @@
         order: 2;
         flex-grow: 0;
     }
-    
+    .frame43-card-works-right-block-html-tag{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 12px;
+
+        height: 40px;
+        width: 56px;
+        background: rgba(255, 255, 255, 0.24);
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .frame43-card-works-right-block-bootstrap-tag{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 12px;
+
+        height: 40px;
+        width: 56px;
+        background: rgba(255, 255, 255, 0.24);
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    .frame43-card-works-right-block-ruby-tag{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 12px;
+
+        height: 40px;
+        width: 56px;
+        background: rgba(255, 255, 255, 0.24);
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    .frame43-card-works-mask-group{
+        width: 327px;
+        height: 386px;
+        position: absolute;
+        
+    }
 }
