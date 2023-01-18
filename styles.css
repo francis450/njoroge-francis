@@ -624,9 +624,9 @@
 
     #horizontal-rule{
         position: absolute;
-        width: 100%;
+        width: 327px;
         top: 4695px;
-        
+        left: 20px;
         border: 1px solid #FFFFFF;        
     }
 
@@ -634,7 +634,8 @@
     #skill{
         width: 329px;
         height: 1241.46px;
-
-        
+        margin: 0 5%;
+        position: absolute;
+        top: 4797px;
     }
 }
