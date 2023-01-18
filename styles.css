@@ -594,4 +594,8 @@
         color: #F4F5F7;        
         order: 1;        
     }
+    #get-my-resume{
+        width: 161px;
+        height: 48px;
+    }
 }
