@@ -257,6 +257,21 @@
     .works-image-placeholder img{
         width: 100%;
     }
+    #works-title-text{
+        width: 100%;
+        height: 83px;
+
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 52px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+    }
 
     #works-right-block{
         display: flex;
@@ -343,7 +358,7 @@
         flex-grow: o;
         border: none;
     }
-    #works-enable-button p{
+    .see-project-text{
         width: 100px;
         height: 24px;
         
@@ -363,6 +378,7 @@
         align-items: center;
         padding: 0px 24px;
         gap: 24px;
+        
 
         width: 100%;
         height:2436px;
@@ -372,7 +388,7 @@
     }
     /* common card classes styling */
     .card-work{
-        width: 100%;
+        width: 327px;
         height: 386px;
 
         flex: none;
@@ -381,8 +397,8 @@
     .frame43-card-works-action{
         width: 100%;
         height: 48px;
-        position: absolute;
-        
+        position: relative;
+        top: 90px;
     }
     .frame43-card-works-action-action{
         position: absolute;
@@ -394,6 +410,7 @@
         display: flex;
         flex-direction: row;
         align-items: center;
+        justify-content: center;
         padding: 12px;
         gap: 10px;
     
@@ -413,6 +430,7 @@
 
         color: #fff;
     }
+    
     /* Works-right-group */
     .frame43-card-works-right-block{
         display: flex;
@@ -490,7 +508,7 @@
         padding: 10px 12px;
 
         height: 40px;
-        width: 56px;
+        width: 95px;
         background: rgba(255, 255, 255, 0.24);
         flex: none;
         order: 1;
@@ -501,14 +519,23 @@
         flex-direction: row;
         align-items: center;
         padding: 10px 12px;
-
+        
         height: 40px;
-        width: 56px;
+        width: 61px;
         background: rgba(255, 255, 255, 0.24);
         flex: none;
         order: 0;
         flex-grow: 0;
     }
+    .works-tag-text{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 20px;
+        color: #fff;
+    }
+    
     .frame43-card-works-mask-group{
         width: 327px;
         height: 386px;
@@ -520,5 +547,11 @@
          url('img/works/cardworks1.svg');
         height: 386px;
         width: 327px;
+    }
+    .mask{
+        position: absolute;
+        background: #262626;
+        height: 100%;
+        width: 100%;
     }
 }
