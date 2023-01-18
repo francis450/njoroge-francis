@@ -636,11 +636,13 @@
         height: 1241.46px;
         margin: 0 5%;
         position: absolute;
-        top: 4797px;
+        top: 4700px;
 
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding: 120px 24px;
+        gap: 24px;
         
     }
 }
