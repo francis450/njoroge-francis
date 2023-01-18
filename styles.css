@@ -698,8 +698,16 @@
         flex-direction: column;
         align-items: center;
         padding: 0px 12px;
-        gap: 8px;
-        
+        gap: 8px;        
+    }
+    #language-items-container{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px 0px;
+        width: 114px;
+        height: 48px;
+                
     }
 
 }
