@@ -652,5 +652,8 @@
 
         width: 225.46px;
         height: 281.46px;
+
+        flex: none;
+        flex-grow: 0;
     }
 }
