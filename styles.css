@@ -672,5 +672,7 @@
     #language-icon{
         width: 18px;
         height: 18px;
+        background: #FF6B00;
+        transform: rotate(-45deg);
     }
 }
