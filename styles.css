@@ -562,5 +562,9 @@
 
         position: absolute;
         top: 4137px;
+
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
     }
 }
