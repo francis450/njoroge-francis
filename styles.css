@@ -674,5 +674,21 @@
         height: 18px;
         background: #FF6B00;
         transform: rotate(-45deg);
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    #language-text{
+        display: flex;
+        align-items: center;
+        width: 164px;
+        height: 24px;
+        font-family: 'InaiMathi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 44px;
+        color: #FFFFFF;
+        
     }
 }
