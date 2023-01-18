@@ -570,4 +570,8 @@
         padding: 120px 24px;
         gap: 24px;
     }
+    #about-me{
+        width: 327px;
+        height: 79px;
+    }
 }
