@@ -600,4 +600,13 @@
         background: #FF6B00;
         order: 2;
     }
+    #get-my-resume-text{
+        width: 137px;
+        height: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 24px;
+    }
 }
