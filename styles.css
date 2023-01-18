@@ -573,5 +573,11 @@
     #about-me{
         width: 327px;
         height: 79px;
+
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 72px;
+        line-height: 88px;
     }
 }
