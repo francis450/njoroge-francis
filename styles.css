@@ -597,5 +597,7 @@
     #get-my-resume{
         width: 161px;
         height: 48px;
+        background: #FF6B00;
+        order: 2;
     }
 }
