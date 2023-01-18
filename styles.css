@@ -599,6 +599,11 @@
         height: 48px;
         background: #FF6B00;
         order: 2;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px;
+        gap: 10px;
     }
     #get-my-resume-text{
         width: 137px;
@@ -608,5 +613,11 @@
         font-weight: 700;
         font-size: 17px;
         line-height: 24px;
+        color: #FFFFFF;
+    }
+    #about-background{
+        position: absolute;
+        left: 200px;
+        top: 300px;
     }
 }
