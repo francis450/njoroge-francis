@@ -877,6 +877,11 @@
         justify-content: center;
         color: #FFFFFF;   
     }
+
+    #form-section{
+        width: 100%;
+        height: 844px;
+    }
     
 
 }
