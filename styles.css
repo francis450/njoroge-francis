@@ -693,6 +693,13 @@
     #language-items{
         width: 186px;
         height: 216px;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px 12px;
+        gap: 8px;
+        
     }
 
 }
