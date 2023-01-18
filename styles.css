@@ -689,6 +689,10 @@
         font-size: 32px;
         line-height: 44px;
         color: #FFFFFF;
-        
     }
+    #language-items{
+        width: 186px;
+        height: 216px;
+    }
+
 }
