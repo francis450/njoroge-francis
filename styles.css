@@ -665,5 +665,12 @@
         align-items: center;
         padding: 8px 12px;
         gap: 12px;
+
+        flex: none;
+        flex-grow: 0;
+    }
+    #language-icon{
+        width: 18px;
+        height: 18px;
     }
 }
