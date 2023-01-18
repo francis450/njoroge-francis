@@ -650,10 +650,14 @@
         align-items: center;
         gap: 24px;
 
-        width: 225.46px;
-        height: 281.46px;
+        width: 225px;
+        height: 281px;
 
         flex: none;
         flex-grow: 0;
+    }
+    #language-title{
+        width: 225px;
+        height: 41px;
     }
 }
