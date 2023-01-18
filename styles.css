@@ -950,7 +950,9 @@
         width: 100%;
         height: 49px;
     }
-    #text-box{
-        
+    .text-box{
+        width: 100%;
+        height: 114px;
+        border-bottom: none;
     }
 }
