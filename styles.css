@@ -581,5 +581,10 @@
         line-height: 88px;
 
         color: #FF6B00;
+        order: 0;
+    }
+    #about-description{
+        width: 327px;
+        height: 148px;
     }
 }
