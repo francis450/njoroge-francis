@@ -621,4 +621,20 @@
         left: 200px;
         top: 300px;
     }
+
+    #horizontal-rule{
+        position: absolute;
+        width: 100%;
+        top: 4695px;
+        
+        border: 1px solid #FFFFFF;        
+    }
+
+    /* skill  Section*/
+    #skill{
+        width: 329px;
+        height: 1241.46px;
+
+        
+    }
 }
