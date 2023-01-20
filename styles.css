@@ -1,6 +1,6 @@
 @media screen and (max-width: 360px) {
   /* all */
-* {
+  * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
