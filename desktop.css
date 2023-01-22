@@ -20,12 +20,13 @@
     :root{
         /* colors */
         --TOOLBAR-BACKGROUND-COLOR: #3E3C3C;
+        --BODY-BACKGROUND: #1C1A19;
     }
     
 
     /* GENERAL TAGS */
     body{
-        /* padding-left: 10%; */
+        background-color: var(--BODY-BACKGROUND);
     }
 
     /* USER DEFINED CLASSES */
@@ -89,5 +90,23 @@
         right: 10%;
         top: calc(50% - 40px/2);
     }
-    
+    /* Headline section */
+    #headline{
+        position: relative;
+        top: 72px;
+        height: 739px;
+        width: 566px;
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        gap: 12px;
+    }
+    .background-image{
+        display: none;
+    }
+    #desktop-headline-image{
+        position: absolute;
+        height: 1003px;
+        width: 769px;
+    }
 }
