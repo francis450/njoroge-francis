@@ -63,6 +63,17 @@
     .navigation-contact{
         width: 83px;
     }
+    .item-text{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 20px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
 
     
 }
