@@ -14,7 +14,8 @@
     /* VARIABLES */
     :root{
         /* colors */
-        --TOOLBAR-BACKGROUND-COLOR: #181E25;
+        --TOOLBAR-BACKGROUND-COLOR: #3E3C3C;
+        ;
     }
 
     /* GENERAL TAGS */
@@ -29,5 +30,13 @@
         height: 72px;
         width: 100%;
         position: fixed;
+    }
+    #toolbar-logo-placeholder{
+        width: 116px;
+        height: 40px;
+
+        position: absolute;
+        top: 16px;
+        left: 142px;
     }
 }
