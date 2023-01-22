@@ -37,11 +37,15 @@
         position: fixed;
     }
     #toolbar-logo-placeholder{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
         width: 116px;
         height: 40px;
 
         position: absolute;
-        top: 16px;
+        top: calc(50% - 40px/2);
         left: 10%;
     }
     #item-navigation{
@@ -74,6 +78,16 @@
         text-align: center;
         color: #FFFFFF;
     }
-
+    #mail{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 8px;
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        right: 10%;
+        top: calc(50% - 40px/2);
+    }
     
 }
