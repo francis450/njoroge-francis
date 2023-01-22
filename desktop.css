@@ -1,0 +1,33 @@
+@media screen and (min-width: 720px) {
+    /* RESETS */
+    * {
+        box-sizing: border-box;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    /* || UTILITY CLASSES || */
+    .center{
+        text-align: center;
+    }
+
+    /* VARIABLES */
+    :root{
+        /* colors */
+        --TOOLBAR-BACKGROUND-COLOR: #181E25;
+    }
+
+    /* GENERAL TAGS */
+    body{
+        /* padding-left: 10%; */
+    }
+
+    /* USER DEFINED CLASSES */
+    /* Toolbar section */
+    #toolbar{
+        background: var(--TOOLBAR-BACKGROUND-COLOR);
+        height: 72px;
+        width: 100%;
+        position: fixed;
+    }
+}
