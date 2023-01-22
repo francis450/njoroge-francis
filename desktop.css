@@ -45,6 +45,8 @@
         display: flex;
         flex-direction: row;
         gap: 8px;
-
+        position: absolute;
+        right: 13%;
+        top: calc(50% - 40px/2);
     }
 }
