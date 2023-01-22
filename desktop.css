@@ -7,16 +7,21 @@
     }
 
     /* || UTILITY CLASSES || */
-    .center{
-        text-align: center;
+    .navigation-item{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 12px;
+        gap: 10px;
+        height: 40px;
     }
 
     /* VARIABLES */
     :root{
         /* colors */
         --TOOLBAR-BACKGROUND-COLOR: #3E3C3C;
-        ;
     }
+    
 
     /* GENERAL TAGS */
     body{
@@ -49,4 +54,15 @@
         right: 13%;
         top: calc(50% - 40px/2);
     }
+    .navigation-contact{
+        width: 87px;
+    }
+    .navigation-about{
+        width: 69px;
+    }
+    .navigation-contact{
+        width: 83px;
+    }
+
+    
 }
