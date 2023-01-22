@@ -34,7 +34,9 @@ body {
     height: 44px;
     left: 12px;
 }
-
+#item-navigation{
+    display: none;
+}
 
 #toolbar-menu-button {
     display: flex;
