@@ -37,6 +37,14 @@
 
         position: absolute;
         top: 16px;
-        left: 142px;
+        left: 10%;
+    }
+    #item-navigation{
+        width: 255px;
+        height: 40px;
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+
     }
 }
