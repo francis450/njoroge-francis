@@ -234,8 +234,96 @@
     }
     .works-image-placeholder{
         width: 60%;
+        order: 0;
     }
     .works-actual-image{
         width: 100%;
+    }
+    #works-right-block{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+        height: 307px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    #works-title-post{
+        width: 100%;
+        height: 36px;
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 44px;
+        display: flex;
+        align-items: center;
+        flex: none;
+        flex-grow: 0;
+        order: 0;
+        color: #091E42;
+    }
+    #works-supporting-text{
+        width: 100%;
+        height: 147px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #091E42;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    #works-tags{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px;
+        gap: 12px;
+        width: 297px;
+        height: 40px;
+        flex: none;
+        order: 2;
+        flex-grow: 0;
+    }
+    .tag{
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 12px;
+        height: 100%;
+        background-color: #fff;
+        border: 1px solid #8993A4;
+        flex: none;
+        flex-grow: 0;
+    }
+    #works-enable-button{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px;
+        gap: 10px;
+        width: 124px;
+        height: 48px;
+        background: #FF6B00;
+        flex: none;
+        order: 3;
+        flex-grow: o;
+        border: none;
+    }
+    .see-project-text{
+        width: 100px;
+        height: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
     }
 }
