@@ -197,6 +197,7 @@
         flex-direction: row;
         align-items: center;
         gap: 24px;
+        margin-bottom: 114px    ;
     }
     #title-text {
         width: 315px;
@@ -211,7 +212,7 @@
         color: #091E42;
     }
     #title-vector {
-        width: 55%;
+        width: 66%;
         height: 0px;
         border: 1px solid #212121;
         flex: none;
@@ -219,4 +220,8 @@
         flex-grow: 0;
     }
   
+    #works-frame44{
+        height: 1379px;
+        width: 80%;
+    }
 }
