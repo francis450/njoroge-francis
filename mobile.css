@@ -94,6 +94,9 @@ body {
     top: 65px;
     left: 0px;
 }
+#desktop-headline-image{
+    display: none;
+}
 .social-media{
     display: flex;
     flex-direction: row;
