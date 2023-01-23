@@ -101,7 +101,7 @@
     #headline{
         position: relative;
         height: 739px;
-        width: 566px;
+        width: 39%;
         display: flex;
         flex-direction: column;
         gap: 12px;
@@ -112,12 +112,13 @@
     }
     #desktop-headline-image{
         position: absolute;
-        height: 100%;
+        height: 1003px;
         width: 53%;
         top: 0px;
         right: 0px;
     }
     .social-media{
         position: absolute;
+        left: 0px;
     }
 }
