@@ -116,7 +116,21 @@
         order: 0;
         flex-grow: 0;
     }
-    
+    .supporting-text{
+        width: 566px;
+        height: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 44px;
+        display: flex;
+        align-items: center;
+        color: #FFFFFF;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
     .background-image{
         display: none;
     }
