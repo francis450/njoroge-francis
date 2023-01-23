@@ -210,5 +210,13 @@
         align-items: center;
         color: #091E42;
     }
+    #title-vector {
+        width: 55%;
+        height: 0px;
+        border: 1px solid #212121;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
   
 }
