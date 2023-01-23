@@ -34,6 +34,56 @@ body {
     height: 44px;
     left: 12px;
 }
+#toolbar-logo-name  {
+    width: 77px;
+    height: 24px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.my-name{
+    font-family: 'Crete Round';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FF6B00;
+    order: 0;
+}
+.supporting-text{
+    font-family: 'Roboto', 'san-serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    color: #FFF5E1;
+    order: 1;
+}
+.description{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    order: 2;
+    color: #FFFFFF;
+}
 #item-navigation{
     display: none;
 }
@@ -879,53 +929,3 @@ body {
 }
 }
 /* Off the media query */
-#toolbar-logo-name  {
-    width: 77px;
-    height: 24px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 24px;
-    
-    display: flex;
-    align-items: center;
-    text-align: center;
-    
-    color: #FFFFFF;
-    
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-.my-name{
-    font-family: 'Crete Round';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 56px;
-    line-height: 64px;
-    color: #FF6B00;
-    order: 0;
-}
-.supporting-text{
-    font-family: 'Roboto', 'san-serif';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 32px;
-    display: flex;
-    align-items: center;
-    color: #FFF5E1;
-    order: 1;
-}
-.description{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    order: 2;
-    color: #FFFFFF;
-}
