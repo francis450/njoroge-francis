@@ -224,4 +224,12 @@
         height: 1379px;
         width: 80%;
     }
+    #works-featured-image{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 24px;
+        width: 100%;
+        height: 448px;
+    }
 }
