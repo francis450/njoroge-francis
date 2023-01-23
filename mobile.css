@@ -147,6 +147,9 @@ body {
 #desktop-headline-image{
     display: none;
 }
+.desktop-social-media{
+    display: none;
+}
 .social-media{
     display: flex;
     flex-direction: row;
