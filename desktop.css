@@ -183,6 +183,7 @@
         background-color: #fff;
         padding: 0px 10%;
         position: relative;
+        bottom: 80px;
     }
     #recent-work{
         width: 100%;
@@ -197,4 +198,17 @@
         align-items: center;
         gap: 24px;
     }
+    #title-text {
+        width: 315px;
+        height: 52px;
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 52px;
+        display: flex;
+        align-items: center;
+        color: #091E42;
+    }
+  
 }
