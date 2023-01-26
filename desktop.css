@@ -572,12 +572,24 @@
         color: #FFFFFF;        
     }
     #horizontal-rule{
-        position: relative ;
+        position: relative;
         width: 80%;
         border: 1px solid #FFFFFF;
         left: 10%;
     }
     #about-background{
         display: none;
+    }
+    /* Skill Section */
+    #skills{
+        width: 80%;
+        height: 596px;
+        position: relative;
+        left: 10%;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 130px 0px;
+        gap: 10%;
     }
 }
