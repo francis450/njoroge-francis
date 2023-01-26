@@ -543,4 +543,18 @@
         order: 1;
         flex-grow: 0;        
     }
+    #get-my-resume{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px;
+        gap: 10px;
+        width: 161px;
+        height: 48px;
+        background: #F55800;
+        flex: none;
+        order: 2;
+        flex-grow: 0;
+    }
+        
 }
