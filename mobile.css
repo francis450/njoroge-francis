@@ -883,6 +883,9 @@ body {
     top: 0px;
     background: #DFE1E6;
 }
+.one{
+    display: none;
+}
 #form{
     width: 327px;
     height: 330px;
