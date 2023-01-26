@@ -832,27 +832,36 @@
         height: 330px;
     }
     #row{
-
+        width: 100%;
+        height: 48px;
+        display: flex;
+        flex-direction: row;
+        gap: 12px;
     }
     .border-removed{
-        /* border: 0px 0px 1px 0px; */
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
     }
     #full-name{
-
+        width: 50%;
     }
     #second-name{
-
+        width: 50%;
     }
     #email{
-
+        height: 48px;
+        width: 100%;
     }
     .text-box{
-
+        width: 100%;
+        height: 114px;
+        border-bottom: 0px;
     }
     #get-in-touch{
-
+        
     }
     #get-in-touch-text{
-        
+
     }
 }
