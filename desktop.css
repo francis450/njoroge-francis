@@ -617,4 +617,26 @@
         transform: rotate(-45deg);
         order: 0;
     }
+    #language-text{
+        width: 228px;
+        height: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 44px;
+        display: flex;
+        align-items: center;
+        color: #FFFFFF;
+        order: 1;        
+    }
+    #language-items{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px 12px;
+        gap: 8px;
+        width: 186px;
+        height: 216px;
+    }
 }
