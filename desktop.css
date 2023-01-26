@@ -518,7 +518,13 @@
         top: 0px;
     }
     #about-me{
-        width: 39%;
+        width: 566px;
         height: 78px;
+        font-family: 'Crete Round';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 72px;
+        line-height: 82px;
+        color: #F55800;
     }
 }
