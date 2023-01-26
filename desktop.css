@@ -504,4 +504,9 @@
     .two{
         display: none;
     }
+    /* About section */
+    #about{
+        width: 39%;
+        height: 582px;
+    }
 }
