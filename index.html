@@ -546,9 +546,9 @@
 
         <div class="form">
             <form action="https://formspree.io/f/xyyakzgb" method="POST" id="form">
-                <input type="text" name="FirstName" placeholder="Full name" id="full-name" class="border-removed">
-                <input type="email" name="email" placeholder="Email address" class="border-removed">
-                <input type="text" name="comment" placeholder="Enter text here" class="border-removed text-box"> 
+                <input type="text" name="FirstName" maxlength="30" required placeholder="Full name" id="full-name" class="border-removed">
+                <input type="email" name="email" required placeholder="Email address" class="border-removed">
+                <input type="text" name="comment" required maxlength="500" placeholder="Enter text here" class="border-removed text-box"> 
                 <button type="submit" id="get-in-touch"><p id="get-in-touch-text">Get in touch</p>  </button>
             </form>
         </div>
