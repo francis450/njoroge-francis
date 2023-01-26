@@ -513,5 +513,8 @@
         align-items: flex-start;
         padding: 130px 0px;
         gap: 24px;
+        position: relative;
+        left: 10%;
+        top: 0px;
     }
 }
