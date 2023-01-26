@@ -508,5 +508,8 @@
     #about{
         width: 39%;
         height: 582px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
     }
 }
