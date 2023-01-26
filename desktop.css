@@ -592,4 +592,13 @@
         padding: 130px 0px;
         gap: 10%;
     }
+    #language{
+        width: 25%;
+        height: 281px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 24px;
+    }
 }
