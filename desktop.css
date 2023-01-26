@@ -225,6 +225,7 @@
         flex-direction: column;
         height: 1379px;
         width: 100%;
+        gap: 24px;
     }
     #works-featured-image{
         display: flex;
@@ -493,5 +494,8 @@
         background: #262626;
         height: 100%;
         width: 100%;
+    }
+    .two{
+        display: none;
     }
 }
