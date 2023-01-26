@@ -179,7 +179,7 @@
     /* Work section */
     #recent-works{
         width: 100%;
-        height: 1805px;
+        height: 1705px;
         background-color: #fff;
         padding: 0px 10%;
         position: relative;
@@ -356,13 +356,19 @@
         position: relative;
         top: 90px;
     }
-    .frame43-card-works-action-action{
+    .frame43-card-works-action-one{
+        width: 100%;
+        height: 48px;
+        position: relative;
+        top: 338px;
+    }
+    .frame43-card-works-action-action-one{
         position: absolute;
         width: 327px;
         height: 48px;
         background: #FF6B00;
     }
-    .see-project{
+    .see-project-one{
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -394,7 +400,7 @@
         height: 248px;
         position: relative;
         left: calc(50% - 327px/2);
-        top: 76px;
+        top: 135px;
     }
     .frame43-card-works-right-block-title-post{
         width: 295px;
