@@ -682,7 +682,6 @@
         width: 18px;
         height: 18px;
         background: #F55800;
-        transform: rotate(-45deg);
         order: 0;
     }
     #framework-text{
@@ -727,6 +726,12 @@
         align-items: center;
         color: #FFFFFF;
     }
+    #beside-about-img{
+        position: absolute;
+        right: 0;
+        bottom: 300px;
+        top: 2550px;
+    }
     /* Skills */
     #skill{
         width: 25%;
@@ -750,7 +755,7 @@
         width: 18px;
         height: 18px;
         background: #F55800;
-        transform: rotate(-45deg);
+        border-radius: 18px;
         order: 0;
     }
     #skill-text{
