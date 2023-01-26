@@ -639,4 +639,12 @@
         width: 186px;
         height: 216px;
     }
+    #language-items-container{
+        width: 114px;
+        height: 48px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 12px 0px;
+    }
 }
