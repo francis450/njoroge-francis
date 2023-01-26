@@ -800,4 +800,14 @@
         align-items: center;
         color: #FFFFFF;
     }
+    /* Form Section */
+    #form-section{
+        background-color: #FFFFFF;
+        width: 100%;
+        height: 590px;
+        padding-left: 10%;
+        padding-right: 10%;
+        display: flex;
+        flex-direction: row;
+    }
 }
