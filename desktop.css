@@ -822,4 +822,37 @@
         align-items: center;
         color: #262626;
     }
+    #form{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 24px;
+        width: 684px;
+        height: 330px;
+    }
+    #row{
+
+    }
+    .border-removed{
+        /* border: 0px 0px 1px 0px; */
+    }
+    #full-name{
+
+    }
+    #second-name{
+
+    }
+    #email{
+
+    }
+    .text-box{
+
+    }
+    #get-in-touch{
+
+    }
+    #get-in-touch-text{
+        
+    }
 }
