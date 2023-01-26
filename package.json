@@ -1,0 +1,22 @@
+{
+  "name": "njoroge-francis",
+  "version": "1.0.0",
+  "description": "Njoroge's portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francis450/njoroge-francis.git"
+  },
+  "author": "Francis Njoroge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francis450/njoroge-francis/issues"
+  },
+  "homepage": "https://github.com/francis450/njoroge-francis#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
