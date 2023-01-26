@@ -328,4 +328,10 @@
         color: #FFFFFF;
     }
 
+    /* Work cards */
+    #works-frame43{
+        display: grid;
+        grid-template-columns: 3fr;
+        grid-template-rows: 2fr;
+    }
 }
