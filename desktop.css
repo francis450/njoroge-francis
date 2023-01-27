@@ -37,6 +37,9 @@
         width: 100%;
         position: fixed;
     }
+    #toolbar-menu-button{
+        display: none;
+    }
     #toolbar-logo-placeholder {
         display: flex;
         flex-direction: row;
