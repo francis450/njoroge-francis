@@ -896,7 +896,7 @@
         justify-items: center;
         flex-direction: column;
     }
-    .social-media{
+    .bottom-social-media{
         display: flex;
         flex-direction: row;
         align-items: center;
