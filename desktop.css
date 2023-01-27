@@ -60,6 +60,15 @@
         text-align: center;
         color: #FFFFFF;
     }
+
+    .item-text:hover{
+        transform: scale(1.2);
+    }
+
+    #toolbar-logo-name:hover{
+        transform: scale(1.2);
+    }
+
     #item-navigation {
         width: 255px;
         height: 40px;
