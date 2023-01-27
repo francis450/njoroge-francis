@@ -189,7 +189,7 @@ body {
     background-color: #fff;
     gap: 80px;
     position: absolute;
-    width: 100%;
+    /* width: 100%; */
     height: 3455px;
     left: 0px;
     top: 682px;
@@ -369,6 +369,16 @@ body {
     gap: 24px;
     width: 100%;
     /* height:2436px; */
+    flex: none;
+    flex-grow: 0;
+}
+#works-frame45{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 24px;
+    gap: 24px;
+    width: 100%;
     flex: none;
     flex-grow: 0;
 }
